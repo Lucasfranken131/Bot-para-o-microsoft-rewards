@@ -36,6 +36,6 @@ Para usar ele é necessário que você tenha algumas coisas: <br>
   Mude o valor da variável <strong>${Password}</strong> para sua senha da <strong>Microsoft</strong>.
 </p>
 <p>
-  Pronto, você pode usar esse bot para fazer suas pesquisas no Microsoft Rewards. <br>
+  <h3>Pronto, agora você pode usar esse bot para fazer suas pesquisas no Microsoft Rewards.</h> <br>
   <img src="https://media.tenor.com/_8OFisnQxBMAAAAd/cicak-goyang.gif" width="250" height="250">
 </p>
