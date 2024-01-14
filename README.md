@@ -6,6 +6,7 @@ Para usar ele é necessário que você tenha algumas coisas: <br>
   <li>Robot Framework</li>
   <li>Selenium</li>
   <li>Driver do Navegador</li>
+  <li>Configuração Final</li>
 </ol>
 <p>
   <h3>Python</h3>
@@ -28,4 +29,13 @@ Para usar ele é necessário que você tenha algumas coisas: <br>
 <p>
   <h3>Driver do Navegador</h3>
   O Driver do navegador é um arquivo essencial, é ele que será executado para abrir uma aba no navegador de sua escolha.
+</p>
+<p>
+  <h3>Configuração Final</h3>
+  Mude o valor da variável <strong>${Login}</strong> para seu email da <strong>Microsoft</strong>;<br>
+  Mude o valor da variável <strong>${Password}</strong> para sua senha da <strong>Microsoft</strong>.
+</p>
+<p>
+  Pronto, você pode usar esse bot para fazer suas pesquisas no Microsoft Rewards. <br>
+  <img src="https://media.tenor.com/_8OFisnQxBMAAAAd/cicak-goyang.gif" width="250" height="250">
 </p>
